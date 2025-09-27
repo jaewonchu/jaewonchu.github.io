@@ -12,18 +12,12 @@ Hi, I’m Jaewon Chu, a 3rd-year M.S & Ph.D. integrated student at Korea Univers
 
 I am broadly interested in optimizing generative AI to better serve human needs. My research focuses on developing new optimization methods that make generative models more controllable, reliable, and efficient—ranging from Bayesian optimization to instruction optimization for large language models, and extending to novel policy optimization algorithms. (More Details)
 
-Current Research Interests
-------
-- LLM Alignment
-- Instruction Optimization
-- Black-box Optimization
-
 News
 ------
 [25.09] Our paper on instruction optimization has been accepted for **NeurIPS 2025.**<br>
-[25.09] I am honored to serve as a reviewer for ICLR 2026.
-[25.04] I am honored to serve as a reviewer for NeurIPS 2025.
-[25.01] Our paper on latent Bayesian optimization has been accepted for **ICLR 2025 (oral).**<br>
+[25.09] I am honored to serve as a reviewer for **ICLR 2026.**<br>
+[25.04] I am honored to serve as a reviewer for **NeurIPS 2025.**<br>
+[25.01] Our paper on latent Bayesian optimization has been accepted for **ICLR 2025 _(oral)_.**<br>
 [24.09] Our paper on latent Bayesian optimization has been accepted for **NeurIPS 2024.**<br>
 [24.02] Our paper on token merging for video transformers has been accepted for **CVPR 2024.**<br>
 [23.09] Our paper on latent Bayesian optimization has been accepted for **NeurIPS 2023.**<br>
