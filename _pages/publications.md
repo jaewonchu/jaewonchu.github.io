@@ -16,7 +16,7 @@ author_profile: true
   [[Paper](https://arxiv.org/pdf/2504.14889)] [[Code](https://github.com/mlvlab/NFBO)]<br>
 ## 2024
 - **Inversion-based Latent Bayesian Optimization**<br>
-  Jaewon Chu<sup>*</sup>, Jinyoung Park<sup>*</sup>, Seunghun Lee, Hyunwoo J. Kim<br>
+  **Jaewon Chu<sup>*</sup>**, Jinyoung Park<sup>*</sup>, Seunghun Lee, Hyunwoo J. Kim<br>
   _Advances in Neural Information Processing Systems_ **(NeurIPS)**, 2024<br>
   [[Paper](https://arxiv.org/pdf/2411.05330)] [[Code](https://github.com/mlvlab/InvBO)]<br>
 - **vid-TLDR: Training Free Token merging for Light-weight Video Transformer**<br>
