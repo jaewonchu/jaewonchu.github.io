@@ -21,7 +21,7 @@ Current Research Interests
 News
 ------
 [25.09] Our paper on instruction optimization has been accepted for **NeurIPS 2025.**<br>
-[25.01] Our paper on latent Bayesian optimization has been accepted for **ICLR 2025 (oral, 1.8%).**<br>
+[25.01] Our paper on latent Bayesian optimization has been accepted for **ICLR 2025 (oral).**<br>
 [24.09] Our paper on latent Bayesian optimization has been accepted for **NeurIPS 2024.**<br>
 [24.02] Our paper on token merging for video transformers has been accepted for **CVPR 2024.**<br>
 [23.09] Our paper on latent Bayesian optimization has been accepted for **NeurIPS 2023.**<br>
