@@ -19,7 +19,7 @@ Current Research Interests
 - Black-box Optimization
 
 News
-====== 
+------
 [25.09] Our paper on instruction optimization has been accepted for **NeurIPS 2025.**<br>
 [25.01] Our paper on latent Bayesian optimization has been accepted for **ICLR 2025 (oral, top 1.8%).**<br>
 [24.09] Our paper on latent Bayesian optimization has been accepted for **NeurIPS 2024.**<br>
@@ -29,17 +29,15 @@ News
 [23.07] Our paper on video question answering has been accepted for **ICCV 2023.**<br>
 
 Selected Publications
-======
+------
 (*) denotes equal contribution
 
 - <u>PRESTO: Preimage-Informed Instruction Optimization for Prompting Black-Box LLMs</u><br>
   **Jaewon Chu**, Seunghun Lee, Hyunwoo J. Kim<br>
   Advances in Neural Information Processing Systems (NeurIPS), 2025.<br>
-
 - [Inversion-based Latent Bayesian Optimization<br>](https://arxiv.org/pdf/2411.05330)
   **Jaewon Chu<sup>*</sup>**, Jinyoung Park<sup>*</sup>, Seunghun Lee, Hyunwoo J. Kim<br>
   Advances in Neural Information Processing Systems (NeurIPS), 2024.<br>
-
 - [Advancing Bayesian Optimization via Learning Smooth Latent Spaces<br>](https://arxiv.org/pdf/2310.20258)
   Seunghun Lee<sup>*</sup>, **Jaewon Chu<sup>*</sup>**, Sihyeon Kim<sup>*</sup>, Juyeon Ko, Hyunwoo J. Kim<br>
   Advances in Neural Information Processing Systems (NeurIPS), 2023<br>
