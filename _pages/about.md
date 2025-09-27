@@ -10,7 +10,7 @@ About Me
 ======
 Hi, I’m Jaewon Chu, a 3rd-year M.S & Ph.D integrated student at Korea University Computer Science and Engineering department, conducting research at the Machine Learning and Vision Lab (MLV) under the supervision of [professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/).
 
-I am broadly interested in _optimizing generative AI to better serve human needs._ My research focuses on the intersection of generative models and black-box optimization methods, including Bayesian Optimization, Neural Bandits, and Reinforcement Learning. Human needs are often expressed as black-box functions—such as molecule properties or the accuracy of API-LLMs (*e.g.,* GPT, Claude, Gemini)—and I explores to make generative models to produce outputs that meet these needs by black-box optimization.
+I am broadly interested in <u>_optimizing generative AI to better serve human needs._</u> My research focuses on the intersection of generative models and black-box optimization methods, including Bayesian Optimization, Neural Bandits, and Reinforcement Learning. Human needs are often expressed as black-box functions—such as molecule properties or the accuracy of API-LLMs (*e.g.,* GPT, Claude, Gemini)—and I explores to make generative models to produce outputs that meet these needs by black-box optimization.
 
 📢 _<u>I am also actively seeking internship opportunities where I can apply my research skills and contribute to impactful projects.</u>_
 
