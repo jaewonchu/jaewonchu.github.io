@@ -20,36 +20,24 @@ Current Research Interests
 
 News
 ======
-**[25.09.18]** Our paper about instruction optimization has been accepted to **NeurIPS 2025.**
-
-**[25.01.23]** Our paper about latent Bayesian optimization has been accepted to **ICLR 2025 as an oral presentation (top 1.8%).**
-
-**[24.09.26]** Our paper about latent Bayesian optimization has been accepted to **NeurIPS 2024.**
-
-**[24.02.27]** Our paper about token merging for video transformer has been accepted to **CVPR 2024.**
-
-**[23.09.22]** Our paper about latent Bayesian optimization has been accepted to **NeurIPS 2023.**
-
-**[23.09.22]** Our paper about multi-hop KGQA has been accepted to **NeurIPS 2023.**
-
-**[23.07.14]** Our paper about video question answering has been accepted to **ICCV 2023.**
+**[25.09.18]** Our paper about instruction optimization has been accepted to **NeurIPS 2025.**<br>
+**[25.01.23]** Our paper about latent Bayesian optimization has been accepted to **ICLR 2025 as an oral presentation (top 1.8%).**<br>
+**[24.09.26]** Our paper about latent Bayesian optimization has been accepted to **NeurIPS 2024.**<br>
+**[24.02.27]** Our paper about token merging for video transformer has been accepted to **CVPR 2024.**<br>
+**[23.09.22]** Our paper about latent Bayesian optimization has been accepted to **NeurIPS 2023.**<br>
+**[23.09.22]** Our paper about multi-hop KGQA has been accepted to **NeurIPS 2023.**<br>
+**[23.07.14]** Our paper about video question answering has been accepted to **ICCV 2023.**<br>
 
 Selected Publications
 ======
-- <u>PRESTO: Preimage-Informed Instruction Optimization for Prompting Black-Box LLMs</u>
+- <u>PRESTO: Preimage-Informed Instruction Optimization for Prompting Black-Box LLMs</u><br>
+  **Jaewon Chu**, Seunghun Lee, Hyunwoo J. Kim<br>
+  Advances in Neural Information Processing Systems (NeurIPS), 2025.<br>
 
-  **Jaewon Chu**, Seunghun Lee, Hyunwoo J. Kim
+- <u>Inversion-based Latent Bayesian Optimization</u><br>
+  **Jaewon Chu<sup>*</sup>**, Jinyoung Park<sup>*</sup>, Seunghun Lee, Hyunwoo J. Kim<br>
+  Advances in Neural Information Processing Systems (NeurIPS), 2024.<br>
 
-  Advances in Neural Information Processing Systems (NeurIPS), 2025.
-
-- <u>Inversion-based Latent Bayesian Optimization</u>
-
-  **Jaewon Chu<sup>*</sup>**, Jinyoung Park<sup>*</sup>, Seunghun Lee, Hyunwoo J. Kim
-
-  Advances in Neural Information Processing Systems (NeurIPS), 2024.
-
-- <u>Advancing Bayesian Optimization via Learning Smooth Latent Spaces</u>
-
-  Seunghun Lee<sup>*</sup>, **Jaewon Chu<sup>*</sup>**, Sihyeon Kim<sup>*</sup>, Juyeon Ko, Hyunwoo J. Kim
-
-  Advances in Neural Information Processing Systems (NeurIPS), 2023
+- <u>Advancing Bayesian Optimization via Learning Smooth Latent Spaces</u><br>
+  Seunghun Lee<sup>*</sup>, **Jaewon Chu<sup>*</sup>**, Sihyeon Kim<sup>*</sup>, Juyeon Ko, Hyunwoo J. Kim<br>
+  Advances in Neural Information Processing Systems (NeurIPS), 2023<br>
