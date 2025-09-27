@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* denotes equal contribution
+(*) denotes equal contribution
 
 ## 2025
 - <strong>PRESTO: Preimage-Informed Instruction Optimization for Prompting Black-Box LLMs</strong><br>
