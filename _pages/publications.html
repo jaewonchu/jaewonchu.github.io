@@ -18,6 +18,9 @@ author_profile: true
   <h2>{{ year_group.name }}</h2>
   <hr />
   {% for paper in year_group.items %}
-    {% include archive-single.html post=paper %}
+    {% for paper in year_group.items %}
+      {% assign post = paper %}   
+      {% include archive-single.html %}
+    {% endfor %}
   {% endfor %}
 {% endfor %}
