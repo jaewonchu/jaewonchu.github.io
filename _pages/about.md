@@ -20,13 +20,13 @@ Current Research Interests
 
 News
 ======
-**[25.09.18]** Our paper ㅐㅜ instruction optimization has been accepted for **NeurIPS 2025.**<br>
-**[25.01.23]** Our paper ㅐㅜ latent Bayesian optimization has been accepted for **ICLR 2025 as an oral presentation (top 1.8%).**<br>
-**[24.09.26]** Our paper ㅐㅜ latent Bayesian optimization has been accepted for **NeurIPS 2024.**<br>
-**[24.02.27]** Our paper ㅐㅜ token merging for video transformer has been accepted for **CVPR 2024.**<br>
-**[23.09.22]** Our paper ㅐㅜ latent Bayesian optimization has been accepted for **NeurIPS 2023.**<br>
-**[23.09.22]** Our paper ㅐㅜ multi-hop KGQA has been accepted for **NeurIPS 2023.**<br>
-**[23.07.14]** Our paper ㅐㅜ video question answering has been accepted for **ICCV 2023.**<br>
+**[25.09.18]** Our paper on instruction optimization has been accepted for **NeurIPS 2025.**<br>
+**[25.01.23]** Our paper on latent Bayesian optimization has been accepted for **ICLR 2025 as an oral presentation (top 1.8%).**<br>
+**[24.09.26]** Our paper on latent Bayesian optimization has been accepted for **NeurIPS 2024.**<br>
+**[24.02.27]** Our paper on token merging for video transformer has been accepted for **CVPR 2024.**<br>
+**[23.09.22]** Our paper on latent Bayesian optimization has been accepted for **NeurIPS 2023.**<br>
+**[23.09.22]** Our paper on multi-hop KGQA has been accepted for **NeurIPS 2023.**<br>
+**[23.07.14]** Our paper on video question answering has been accepted for **ICCV 2023.**<br>
 
 Selected Publications
 ======
