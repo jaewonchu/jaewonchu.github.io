@@ -20,12 +20,12 @@ author_profile: true
   _Advances in Neural Information Processing Systems_ **(NeurIPS)**, 2024<br>
   [[Paper](https://arxiv.org/pdf/2411.05330)] [[Code](https://github.com/mlvlab/InvBO)]<br>
 - **vid-TLDR: Training Free Token merging for Light-weight Video Transformer**<br>
-  Joonmyung Choi<sup>*</sup>, Sanghyeok Lee<sup>*</sup>, **Jaewon Chu**, Minhyuk Choi, Hyunwoo J. Kim<br>
+  Joonmyung Choi<sup>*</sup>, Sanghyeok Lee<sup>*</sup>, Jaewon Chu, Minhyuk Choi, Hyunwoo J. Kim<br>
   _Computer Vision and Pattern Recognition_ *(CVPR)*, 2024<br>
   [[Paper](https://arxiv.org/pdf/2403.13347)] [[Code](https://github.com/mlvlab/vid-TLDR)]<br>
 ## 2023
 - **Advancing Bayesian Optimization via Learning Smooth Latent Spaces**<br>
-  Seunghun Lee<sup>*</sup>, <strong>Jaewon Chu<sup>*</sup></strong>, Sihyeon Kim<sup>*</sup>, Juyeon Ko, Hyunwoo J. Kim<br>
+  Seunghun Lee<sup>*</sup>, **Jaewon Chu<sup>*</sup>**, Sihyeon Kim<sup>*</sup>, Juyeon Ko, Hyunwoo J. Kim<br>
   _Advances in Neural Information Processing Systems_ *(NeurIPS)*, 2023<br>
   [[Paper](https://arxiv.org/pdf/2310.20258)] [[Code](https://github.com/mlvlab/CoBO)]<br>
 - **NuTrea: Neural Tree Search for Context-guided Multi-hop KGQA**<br>
