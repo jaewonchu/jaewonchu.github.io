@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jaewon Chu"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
