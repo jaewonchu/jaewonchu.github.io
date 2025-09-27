@@ -20,7 +20,7 @@ author_profile: true
   _Advances in Neural Information Processing Systems_ **(NeurIPS)**, 2024<br/>
   [[Paper](https://arxiv.org/pdf/2411.05330)] [[Code](https://github.com/mlvlab/InvBO)]<br/>
 - **vid-TLDR: Training Free Token merging for Light-weight Video Transformer**<br/>
-  Joonmyung Choi<sup>*</sup>, Sanghyeok Lee<sup>*</sup>, Jaewon Chu, Minhyuk Choi, Hyunwoo J. Kim<br/>
+  Joonmyung Choi^*, Sanghyeok Lee<sup>*</sup>, Jaewon Chu, Minhyuk Choi, Hyunwoo J. Kim<br/>
   _Computer Vision and Pattern Recognition_ *(CVPR)*, 2024<br/>
   [[Paper](https://arxiv.org/pdf/2403.13347)] [[Code](https://github.com/mlvlab/vid-TLDR)]<br/>
 ## 2023
