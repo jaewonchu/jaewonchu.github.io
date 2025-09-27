@@ -8,7 +8,7 @@ redirect_from:
 ---
 About Me
 ======
-Hi, I’m Jaewon Chu, a 3rd-year M.S & Ph.D. integrated student at Korea University, conducting research at the Machine Learning and Vision Lab (MLV) under the supervision of [Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/).
+Hi, I’m Jaewon Chu, a 3rd-year M.S & Ph.D. integrated student at Korea University Computer Science and Engineering department, conducting research at the Machine Learning and Vision Lab (MLV) under the supervision of [Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/).
 
 I am broadly interested in optimizing generative AI to better serve human needs. My research focuses on developing new optimization methods that make generative models more controllable, reliable, and efficient—ranging from Bayesian optimization to instruction optimization for large language models, and extending to novel policy optimization algorithms. (More Details)
 
