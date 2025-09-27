@@ -1,6 +1,10 @@
 <li>
   <!-- 제목 + paper 링크 -->
-  <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a><br>
+  {% if post.paperurl %}
+    <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a><br>
+  {% else %}
+    {{ post.title }}<br>
+  {% endif %}
 
   <!-- 저자 -->
   {{ post.authors }}<br>
