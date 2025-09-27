@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi, I’m Jaewon Chu, a 3rd-year M.S.-Ph.D. integrated student at Korea University, conducting research at the Machine Learning and Vision Lab (MLV) under the supervision of Professor Hyunwoo J. Kim. I received my Bachelor’s degree in Biomedical Engineering with a secondary major in Artificial Intelligence from Korea University in February 2023. I am broadly interested in optimizing generative AI to better serve human needs. My research focuses on developing new optimization methods that make generative models more controllable, reliable, and efficient—ranging from Bayesian optimization to instruction optimization for large language models, and extending to novel policy optimization algorithms.
 
 A data-driven personal website
 ======
