@@ -29,7 +29,7 @@ author_profile: true
 
 ## 2023
 - **Advancing Bayesian Optimization via Learning Smooth Latent Spaces**<br>
-  Seunghun Lee<sup>*</sup>, <strong>Jaewon Chu<sup>*</sup><strong>, Sihyeon Kim<sup>*</sup>, Juyeon Ko, Hyunwoo J. Kim<br>
+  Seunghun Lee<sup>*</sup>, <strong>Jaewon Chu<sup>*</sup></strong>, Sihyeon Kim<sup>*</sup>, Juyeon Ko, Hyunwoo J. Kim<br>
   _Advances in Neural Information Processing Systems_ *(NeurIPS)*, 2023<br>
   [[Paper](https://arxiv.org/pdf/2310.20258)] [[Code](https://github.com/mlvlab/CoBO)]<br>
 
