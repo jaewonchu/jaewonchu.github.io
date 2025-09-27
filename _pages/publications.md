@@ -15,6 +15,7 @@ author_profile: true
   Seunghun Lee, Jinyoung Park, <strong>Jaewon Chu</strong>, Minseo Yoon, Hyunwoo J. Kim<br>
   _International Conference on Learning Representations_ <strong>(ICLR)</strong>, 2025 <strong>_(Oral presentation, top 1.8%)_</strong><br>
   [[Paper](https://arxiv.org/pdf/2504.14889)] [[Code](https://github.com/mlvlab/NFBO)]<br>
+
 ## 2024
 - <strong>Inversion-based Latent Bayesian Optimization</strong><br>
   <strong>Jaewon Chu<sup>*</sup></strong>, Jinyoung Park<sup>*</sup>, Seunghun Lee, Hyunwoo J. Kim<br>
@@ -24,6 +25,7 @@ author_profile: true
   Joonmyung Choi<sup>*</sup>, Sanghyeok Lee<sup>*</sup>, <strong>Jaewon Chu</strong>, Minhyuk Choi, Hyunwoo J. Kim<br>
   _Computer Vision and Pattern Recognition_ <strong>(CVPR)</strong>, 2024<br>
   [[Paper](https://arxiv.org/pdf/2403.13347)] [[Code](https://github.com/mlvlab/vid-TLDR)]<br>
+  
 ## 2023
 - <strong>Advancing Bayesian Optimization via Learning Smooth Latent Spaces</strong><br>
   Seunghun Lee<sup>*</sup>, <strong>Jaewon Chu<sup>*</sup></strong>, Sihyeon Kim<sup>*</sup>, Juyeon Ko, Hyunwoo J. Kim<br>
