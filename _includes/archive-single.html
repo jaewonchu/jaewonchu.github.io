@@ -1,26 +1,5 @@
 <li>
-  <!-- 제목 + paper 링크 -->
-  {% if post.paperurl %}
-    <a href="{{ post.paperurl }}" target="_blank">{{ post.title }}</a><br>
-  {% else %}
-    {{ post.title }}<br>
-  {% endif %}
-
-  <!-- 저자 -->
+  {{ post.title }}<br>
   {{ post.authors }}<br>
-
-  <!-- 학회/저널 -->
   {{ post.venue }}<br>
-
-  <!-- 링크 버튼들 -->
-  {% if post.paperurl %}
-    <a href="{{ post.paperurl }}" target="_blank">[Paper]</a>
-  {% endif %}
-  {% if post.codeurl %}
-    <a href="{{ post.codeurl }}" target="_blank">[Code]</a>
-  {% endif %}
-  {% if post.bibtexurl %}
-    <a href="{{ post.bibtexurl }}" target="_blank">[BibTeX]</a>
-  {% endif %}
 </li>
-<br>
