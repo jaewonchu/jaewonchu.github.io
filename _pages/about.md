@@ -30,14 +30,16 @@ News
 
 Selected Publications
 ======
-- <u>PRESTO: Preimage-Informed Instruction Optimization for Prompting Black-Box LLMs</u><br>
+(*) denotes equal contribution
+
+- PRESTO: Preimage-Informed Instruction Optimization for Prompting Black-Box LLMs<br>
   **Jaewon Chu**, Seunghun Lee, Hyunwoo J. Kim<br>
   Advances in Neural Information Processing Systems (NeurIPS), 2025.<br>
 
-- [<u>Inversion-based Latent Bayesian Optimization</u><br>](https://arxiv.org/pdf/2411.05330)
+- [Inversion-based Latent Bayesian Optimization<br>](https://arxiv.org/pdf/2411.05330)
   **Jaewon Chu<sup>*</sup>**, Jinyoung Park<sup>*</sup>, Seunghun Lee, Hyunwoo J. Kim<br>
   Advances in Neural Information Processing Systems (NeurIPS), 2024.<br>
 
-- [<u>Advancing Bayesian Optimization via Learning Smooth Latent Spaces</u><br>](https://arxiv.org/pdf/2310.20258)
+- [Advancing Bayesian Optimization via Learning Smooth Latent Spaces<br>](https://arxiv.org/pdf/2310.20258)
   Seunghun Lee<sup>*</sup>, **Jaewon Chu<sup>*</sup>**, Sihyeon Kim<sup>*</sup>, Juyeon Ko, Hyunwoo J. Kim<br>
   Advances in Neural Information Processing Systems (NeurIPS), 2023<br>
