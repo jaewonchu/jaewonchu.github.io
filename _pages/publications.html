@@ -5,20 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h1>Publications</h1>
 
-{% include base_path %}
-
-<!-- 연도별로 그룹핑 -->
-{% assign papers_by_year = site.publications | group_by: "year" | sort: "name" | reverse %}
-{% for year in papers_by_year %}
-  <h2>{{ year.name }}</h2>
-  <hr/>
-  <ul>
-  {% for paper in year.items %}
-    {% include archive-single.html post=paper %}
-  {% endfor %}
-  </ul>
+<ul>
+{% for pub in site.publications %}
+  <li>{{ pub.title }} - {{ pub.year }}</li>
 {% endfor %}
+</ul>
