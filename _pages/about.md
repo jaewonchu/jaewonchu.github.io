@@ -26,7 +26,7 @@ News
 
 Selected Publications
 ------
-(*) denotes equal contribution
+(*) denotes equal contribution.
 
 - <u>PRESTO: Preimage-Informed Instruction Optimization for Prompting Black-Box LLMs</u><br>
   **Jaewon Chu**, Seunghun Lee, Hyunwoo J. Kim<br>
