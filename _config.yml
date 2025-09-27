@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jaewonchu.jpg" # filename of avatar image placed in /images/ for author profile
   name             : "Jaewon Chu" # The name to display in the author profile
   pronouns         : # example: "she/her"  
   bio              : "M.S & Ph.D Integrated Student at Korea University, MLV Lab"
