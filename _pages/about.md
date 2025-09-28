@@ -25,7 +25,7 @@ News
 **[23.09]** Our paper on latent Bayesian optimization has been accepted for **NeurIPS 2023.**<br>
 **[23.09]** Our paper on multi-hop KGQA has been accepted for **NeurIPS 2023.**<br>
 **[23.07]** Our paper on video question answering has been accepted for **ICCV 2023.**<br>
-**[23.03]** I started my M.S & Ph.D integrated program at **MLV Lab.**
+**[23.03]** I started my M.S.-Ph.D. integrated program at **MLV Lab.**
 
 Selected Publications
 ------
