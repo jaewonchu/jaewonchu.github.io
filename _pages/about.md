@@ -16,6 +16,7 @@ I’m broadly interested in <strong>optimizing generative AI to better serve hum
 
 News
 ------
+**[25.10]** I am honored to serve as a reviewer for **CVPR 2026.**<br>
 **[25.09]** Our paper on instruction optimization has been accepted for **NeurIPS 2025.**<br>
 **[25.09]** I am honored to serve as a reviewer for **ICLR 2026.**<br>
 **[25.04]** I am honored to serve as a reviewer for **NeurIPS 2025.**<br>
