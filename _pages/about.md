@@ -17,16 +17,16 @@ I’m broadly interested in <strong>optimizing generative AI to better serve hum
 News
 ------
 **[25.10]** I am honored to be selected as a **Top Reviewer** for **NeurIPS 2025.**<br>
-**[25.10]** I am honored to serve as a reviewer for **CVPR 2026.**<br>
-**[25.09]** Our paper on instruction optimization has been accepted for **NeurIPS 2025.**<br>
-**[25.09]** I am honored to serve as a reviewer for **ICLR 2026.**<br>
-**[25.04]** I am honored to serve as a reviewer for **NeurIPS 2025.**<br>
-**[25.01]** Our paper on latent Bayesian optimization has been accepted for **ICLR 2025 _(oral)_.**<br>
-**[24.09]** Our paper on latent Bayesian optimization has been accepted for **NeurIPS 2024.**<br>
-**[24.02]** Our paper on token merging for video transformers has been accepted for **CVPR 2024.**<br>
-**[23.09]** Our paper on latent Bayesian optimization has been accepted for **NeurIPS 2023.**<br>
-**[23.09]** Our paper on multi-hop KGQA has been accepted for **NeurIPS 2023.**<br>
-**[23.07]** Our paper on video question answering has been accepted for **ICCV 2023.**<br>
+**[25.10]** I am honored to serve as a **reviewer** for **CVPR 2026.**<br>
+**[25.09]** **Our paper** on instruction optimization has been accepted for **NeurIPS 2025.**<br>
+**[25.09]** I am honored to serve as a **reviewer** for **ICLR 2026.**<br>
+**[25.04]** I am honored to serve as a **reviewer** for **NeurIPS 2025.**<br>
+**[25.01]** **Our paper** on latent Bayesian optimization has been accepted for **ICLR 2025 _(oral)_.**<br>
+**[24.09]** **Our paper** on latent Bayesian optimization has been accepted for **NeurIPS 2024.**<br>
+**[24.02]** **Our paper** on token merging for video transformers has been accepted for **CVPR 2024.**<br>
+**[23.09]** **Our paper** on latent Bayesian optimization has been accepted for **NeurIPS 2023.**<br>
+**[23.09]** **Our paper** on multi-hop KGQA has been accepted for **NeurIPS 2023.**<br>
+**[23.07]** **Our paper** on video question answering has been accepted for **ICCV 2023.**<br>
 **[23.03]** I started my M.S.-Ph.D. integrated program at **MLV Lab.**
 
 Selected Publications
