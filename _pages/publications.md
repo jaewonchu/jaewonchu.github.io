@@ -10,7 +10,7 @@ author_profile: true
 - <strong>PRESTO: Preimage-Informed Instruction Optimization for Prompting Black-Box LLMs</strong><br>
   <strong>Jaewon Chu</strong>, Seunghun Lee, Hyunwoo J. Kim<br>
   _Advances in Neural Information Processing Systems_ <strong>(NeurIPS)</strong>, 2025<br>
-  [[Paper]()] [[Code]()]<br>
+  [[Paper](https://arxiv.org/pdf/2510.25808)] [[Code]()]<br>
 - <strong>Latent Bayesian Optimization via Autoregressive Normalizing Flows</strong><br>
   Seunghun Lee, Jinyoung Park, <strong>Jaewon Chu</strong>, Minseo Yoon, Hyunwoo J. Kim<br>
   _International Conference on Learning Representations_ <strong>(ICLR)</strong>, 2025 <strong>_(Oral presentation, top 1.8%)_</strong><br>

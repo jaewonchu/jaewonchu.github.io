@@ -33,7 +33,7 @@ Selected Publications
 ------
 (*) denotes equal contribution
 
-- <u>PRESTO: Preimage-Informed Instruction Optimization for Prompting Black-Box LLMs</u><br>
+- [PRESTO: Preimage-Informed Instruction Optimization for Prompting Black-Box LLMs](https://arxiv.org/pdf/2510.25808)<br>
   <strong>Jaewon Chu</strong>, Seunghun Lee, Hyunwoo J. Kim<br>
   _Advances in Neural Information Processing Systems_ <strong>(NeurIPS)</strong>, 2025<br>
 - [Inversion-based Latent Bayesian Optimization<br>](https://arxiv.org/pdf/2411.05330)
