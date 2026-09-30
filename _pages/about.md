@@ -8,7 +8,7 @@ redirect_from:
 ---
 About Me
 ======
-Hi, I’m Jaewon Chu, a 3rd-year M.S.-Ph.D. integrated student in the Department of Computer Science and Engineering at Korea University, conducting research at the Machine Learning and Vision Lab (MLV) under the supervision of [Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/).
+Hi, I’m Jaewon Chu, a 4th-year M.S.-Ph.D. integrated student in the Department of Computer Science and Engineering at Korea University, conducting research at the Machine Learning and Vision Lab (MLV) under the supervision of [Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/).
 
 I am broadly interested in building <strong>self-improving agentic AI systems</strong> that can adapt their prompts, skills, and behaviors through execution feedback—including textual gradients—and external knowledge. My current research focuses on <strong>harness optimization</strong>: systematically improving the prompts, tools, workflows, and procedural knowledge that govern how language-model agents operate, with particular interest in multi-agent systems and cross-harness adaptation. More broadly, I draw on ideas from black-box and Bayesian optimization to make generative AI systems more capable, efficient, and responsive to human needs.
 
