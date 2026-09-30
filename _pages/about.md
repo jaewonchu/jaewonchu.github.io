@@ -10,14 +10,14 @@ About Me
 ======
 Hi, I’m Jaewon Chu, a 3rd-year M.S.-Ph.D. integrated student in the Department of Computer Science and Engineering at Korea University, conducting research at the Machine Learning and Vision Lab (MLV) under the supervision of [Professor Hyunwoo J. Kim](https://www.hyunwoojkim.com/).
 
-I’m broadly interested in <strong>optimizing generative AI to better serve human needs.</strong> These needs are often expressed as black-box functions, such as the performance of API-LLMs (e.g., GPT, Claude, Gemini) or molecule properties. My research focuses on optimizing generative models to produce outputs that meet these human needs, at the intersection of generative models and black-box optimization methods, including Bayesian Optimization, Neural Bandits, and Reinforcement Learning.
+I am broadly interested in building <strong>self-improving agentic AI systems</strong> that can adapt their prompts, skills, and behaviors through execution feedback—including textual gradients—and external knowledge. My current research focuses on <strong>harness optimization</strong>: systematically improving the prompts, tools, workflows, and procedural knowledge that govern how language-model agents operate, with particular interest in multi-agent systems and cross-harness adaptation. More broadly, I draw on ideas from black-box and Bayesian optimization to make generative AI systems more capable, efficient, and responsive to human needs.
 
 📢 _<u>I am also actively seeking internship opportunities where I can apply my research skills and contribute to impactful projects.</u>_
 
 News
 ------
 **[26.09]** **Our paper** on prompt optimization for MAS has been accepted for **NeurIPS 2026.**<br>
-**[26.09]** **Our paper** on skill optimization has been accepted for **REALM Workshop at EMNLP 2026.**<br>
+**[26.09]** **Our paper** on skill optimization has been accepted for **EMNLP Workshop 2026.**<br>
 **[26.09]** I am honored to serve as a **reviewer** for **ICLR 2027.**<br>
 **[26.08]** I am honored to serve as a **reviewer** for **AAAI 2026.**<br>
 **[26.04]** I am honored to serve as a **reviewer** for **NeurIPS 2026.**<br>
@@ -47,6 +47,6 @@ Selected Publications
 - [Inversion-based Latent Bayesian Optimization<br>](https://arxiv.org/pdf/2411.05330)
   <strong>Jaewon Chu<sup>*</sup></strong>, Jinyoung Park<sup>*</sup>, Seunghun Lee, Hyunwoo J. Kim<br>
   _Advances in Neural Information Processing Systems_ <strong>(NeurIPS)</strong>, 2024<br>
-- [Advancing Bayesian Optimization via Learning Smooth Latent Spaces<br>](https://arxiv.org/pdf/2310.20258)
+- [Advancing Bayesian Optimization via Learning Correlated Latent Space<br>](https://arxiv.org/pdf/2310.20258)
   Seunghun Lee<sup>*</sup>, <strong>Jaewon Chu<sup>*</sup></strong>, Sihyeon Kim<sup>*</sup>, Juyeon Ko, Hyunwoo J. Kim<br>
   _Advances in Neural Information Processing Systems_ <strong>(NeurIPS)</strong>, 2023<br>
