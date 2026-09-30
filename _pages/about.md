@@ -16,6 +16,11 @@ I’m broadly interested in <strong>optimizing generative AI to better serve hum
 
 News
 ------
+**[26.09]** **Our paper** on prompt optimization for MAS has been accepted for **NeurIPS 2026.**<br>
+**[26.09]** **Our paper** on skill optimization has been accepted for **REALM Workshop at EMNLP 2026.**<br>
+**[26.09]** I am honored to serve as a **reviewer** for **ICLR 2027.**<br>
+**[26.08]** I am honored to serve as a **reviewer** for **AAAI 2026.**<br>
+**[26.04]** I am honored to serve as a **reviewer** for **NeurIPS 2026.**<br>
 **[25.10]** I am honored to be selected as a **Top Reviewer** for **NeurIPS 2025.**<br>
 **[25.10]** I am honored to serve as a **reviewer** for **CVPR 2026.**<br>
 **[25.09]** **Our paper** on instruction optimization has been accepted for **NeurIPS 2025.**<br>
@@ -33,6 +38,9 @@ Selected Publications
 ------
 (*) denotes equal contribution
 
+- [AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://arxiv.org/pdf/2609.08572)<br>
+  <strong>Jaewon Chu</strong>, Jinwoo Seo, Jaewon Cho, Jeehye Na, Yunyang Xiong, Youngdae Kim, Hyunwoo J. Kim<br>
+  _Advances in Neural Information Processing Systems_ <strong>(NeurIPS)</strong>, 2026<br>
 - [PRESTO: Preimage-Informed Instruction Optimization for Prompting Black-Box LLMs](https://arxiv.org/pdf/2510.25808)<br>
   <strong>Jaewon Chu</strong>, Seunghun Lee, Hyunwoo J. Kim<br>
   _Advances in Neural Information Processing Systems_ <strong>(NeurIPS)</strong>, 2025<br>

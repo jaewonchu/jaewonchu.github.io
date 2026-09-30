@@ -6,6 +6,20 @@ author_profile: true
 ---
 (*) denotes equal contribution
 
+## 2026
+- <strong>Retrieval-Augmented Skill Optimization via Cross-Harness Adaptation</strong><br>
+  <strong>Jaewon Chu</strong>,  Ji Soo Lee, Jihwan Park, Dohwan Ko, Jeehye Na, Seunghun Lee, Taehoon Lee, Minseo Yoon, Minseok Joo, Yunyang Xiong, Hyunwoo J. Kim<br>
+  _arXiv preprint_ <strong>(Under Review)</strong>, 2026<br>
+  [[Paper](https://arxiv.org/pdf/2609.38024)] [[Code]]<br>
+- <strong>AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems</strong><br>
+  <strong>Jaewon Chu</strong>, Jinwoo Seo, Jaewon Cho, Jeehye Na, Yunyang Xiong, Youngdae Kim, Hyunwoo J. Kim<br>
+  _Advances in Neural Information Processing Systems_ <strong>(NeurIPS)</strong>, 2026<br>
+  [[Paper](https://arxiv.org/pdf/2609.08572)] [[Code]]<br>
+- <strong>SkillCombiner: Optimizing Agent Skills via Edit Combination Search</strong><br>
+  Seungbeom Park, <strong>Jaewon Chu</strong>, Hyunwoo J. Kim<br>
+  _Empirical Methods in Natural Language Processing Workshop REALM_ <strong>(EMNLPW)</strong>, 2026<br>
+  [[Paper]] [[Code]]<br>
+
 ## 2025
 - <strong>PRESTO: Preimage-Informed Instruction Optimization for Prompting Black-Box LLMs</strong><br>
   <strong>Jaewon Chu</strong>, Seunghun Lee, Hyunwoo J. Kim<br>
